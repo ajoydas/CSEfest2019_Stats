@@ -12,7 +12,7 @@
 <img src="generated/user_max_tries.png" >
 &nbsp;
 
-# Puzzle vs Unique Submission
+# Puzzle vs Unique Submissions
 
 <img src="generated/puzzle_subm_bar1.png" >
 &nbsp;
@@ -26,7 +26,7 @@
 &nbsp;
 
 
-# Puzzles vs max & min # of submission by a user
+# Puzzles vs max & min # of submissions by a user
 
 <img src="generated/puzzle_tries_bar1.png" >
 &nbsp;
